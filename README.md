@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![](https://github-readme-stats.vercel.app/api?username=YumeMichi)](https://github.com/YumeMichi)
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YumeMichi&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **YumeMichi/YumeMichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
